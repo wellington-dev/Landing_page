@@ -21,3 +21,4 @@ Para ver o projeto web, clique aqui:  <a href="https://landing-pg-first.netlify.
 - Styled-Components
 - Icons8
 - Figurinhas Bigheads
+- App-netlify
