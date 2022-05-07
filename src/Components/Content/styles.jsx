@@ -3,10 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
     width:100%;
     max-width:1110px;
-    margin:auto;
-    /* border:1px solid black; */
-    /* background-image:url(${({mask})=> mask}) ; */
-  
+    margin:auto;  
 `
 export const NavBar = styled.div`
    display:flex;
