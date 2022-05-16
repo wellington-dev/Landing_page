@@ -1,13 +1,6 @@
 import React from 'react'
 import Nft from '../../assets/nft.png' //fica
 
-
-
-
-
-
-
-
 import {LogoText} from './styles'
 function Logo() {
   return (
