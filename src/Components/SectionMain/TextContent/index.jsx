@@ -18,4 +18,3 @@ function TextContent() {
 }
 
 export default TextContent
-{/* <p>explore on  the world's best & largest NFT martplace</p>   */}
