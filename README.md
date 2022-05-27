@@ -11,7 +11,7 @@
 
 Esse projeto foi focado para treinar styled-components do Reactjs
 
-Para ver o projeto web, clique aqui:  <a href="landing-pageapp.netlify.app">Landig Page</a>
+Para ver o projeto web, clique aqui:  <a href="https://landing-pageapp.netlify.app/">Landig Page</a>
 
 
 ## 🚀 Tecnologias utilizadas
