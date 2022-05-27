@@ -14,6 +14,8 @@ const GlobalStyles = createGlobalStyle`
   body{
       font-family: 'Roboto Slab', serif;
       background-repeat: no-repeat;
+      background-size: cover;
+      height: 100vh;
       background-image:url(${BackgroundImg})
   }
 `
